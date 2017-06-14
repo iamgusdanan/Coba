@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d("Coba", "OnCreate");
+        Log.d("Coba", "OnCreateBaru");
 
         username = (EditText)findViewById(R.id.username);
         password = (EditText)findViewById(R.id.pass);
